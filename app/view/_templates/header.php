@@ -12,6 +12,6 @@
 <br><br><br>
     <div class="navigation">
         <a href="<?php echo URL; ?>">Início</a>
-        <a href="<?php echo URL; ?>clientes">Contas a Pagar</a>
-        <a href="<?php echo URL; ?>funcionarios">Fornecedor</a>
+        <a href="<?php echo URL; ?>contasapagar">Contas a Pagar</a>
+        <a href="<?php echo URL; ?>fornecedor">Fornecedor</a>
     </div>
