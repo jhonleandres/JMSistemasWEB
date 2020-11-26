@@ -1,0 +1,23 @@
+{
+    "name": "jhonleandres/jm-sistemas-web",
+    "description": "Aplicacao feita para Teste JMSistemas",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhonleandres",
+            "email": "jhonleandres.silva@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fpdf/fpdf": "9999999-dev"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "Mini\\" : "app/"
+        }
+    }
+}
